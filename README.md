@@ -7,7 +7,7 @@ This repository showcases an interactive Tableau dashboard analyzing trends in e
 
 ## 📊 Dashboard Preview
 
-![EV Dashboard Screenshot](assets/ev-dashboard-preview.png)
+[EV Dashboard Screenshot](assets/ev-dashboard-preview.png)
 
 ## 📄 Project Description
 
